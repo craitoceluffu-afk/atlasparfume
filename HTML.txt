@@ -1,0 +1,819 @@
+<!doctype html>
+<html lang="fr" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://atlaseparfume.shop">
+
+    <title>Atlase Parfume</title>
+
+    <meta name='description' content='Atlase Parfume'>
+    <meta property="og:site_name" content="Atlase Parfume">
+    <meta property="og:url" content="https://atlaseparfume.shop">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Atlase Parfume">
+    <meta property="og:description" content="Atlase Parfume">
+    <meta property="og:image" content="https://instagram.fcmn3-2.fna.fbcdn.net/v/t1.15752-9/518033661_1008785131155632_7044901476112627503_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Vgf61vqYqEcQ7kNvwH6JLkX&_nc_oc=Adn0c73niCIDHmo-ItMXTdVZUXR96V6sErVzhIhXT87TYZgWLaUA9Jet2e6JWidPxhY&_nc_zt=23&_nc_ht=instagram.fcmn3-2.fna&oh=03_Q7cD2wHtsgrPlY5CBqwzhuI9ah9h1BfT-JMrFP-yze13gCTFNQ&oe=68A08CDD">
+    <meta property="og:image:secure_url" content="https://instagram.fcmn3-2.fna.fbcdn.net/v/t1.15752-9/518033661_1008785131155632_7044901476112627503_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Vgf61vqYqEcQ7kNvwH6JLkX&_nc_oc=Adn0c73niCIDHmo-ItMXTdVZUXR96V6sErVzhIhXT87TYZgWLaUA9Jet2e6JWidPxhY&_nc_zt=23&_nc_ht=instagram.fcmn3-2.fna&oh=03_Q7cD2wHtsgrPlY5CBqwzhuI9ah9h1BfT-JMrFP-yze13gCTFNQ&oe=68A08CDD">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cairo:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap">
+    <style data-youcan>
+      :root {
+        --yc-font-family: Cairo, sans-serif;
+        --yc-inputs-shadow: 0 0 0 1px var(--yc-primary-color);
+        --yc-main-shadow: rgba(0, 0, 0, 0.04) 0 0 0 1px, rgba(0, 0, 0, 0.03) 0 1px 1px, rgba(0, 0, 0, 0.03) 0 2px 2px, rgba(0, 0, 0, 0.03) 0 4px 4px, rgba(0, 0, 0, 0.03) 0 8px 8px, rgba(0, 0, 0, 0.03) 0 16px 16px;
+        --yc-theme-direction: ltr;
+        --yc-primary-color: #1C4647FF;
+        --yc-primary-color-rgb: 28,70,71;
+        --yc-success-color: #79D699FF;
+        --yc-error-color: #F6D1D4FF;
+        --yc-warning-color: #F39C3BFF;
+        --yc-neutral-color: #16191BFF;
+        --yc-neutral-light-color: #E3E3E3FF;
+        --yc-main-border: 1px solid var(--yc-neutral-light-color);
+        --yc-nav-height: 60px;
+        --yc-nav-links-color: var(--yc-neutral-color);
+        --yc-nav-links-hover-transparency: 0.7;
+        --yc-nav-font-family: var(--yc-font-family);
+        --yc-notification-toast-height: 50px;
+        --yc-notification-toast-font-weight: 400;
+        --yc-notification-toast-font-size: 14px;
+        --yc-notification-toast-background-color: #1C4647FF;
+        --yc-notification-toast-text-color: #FF0F00FF;
+        --yc-notification-toast-border-radius: 5px;
+        --yc-notification-toast-border-width: 0px;
+        --yc-notification-toast-border-color: #000000FF;
+        --yc-notification-toast-top: 0;
+        --yc-notification-toast-right: 0;
+      }
+    </style>
+    <link rel="preload" href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/main.css?v=1749733126" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+      <link rel="stylesheet" href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/main.css?v=1749733126">
+    </noscript>
+    <link rel="preload" href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/utils.css?v=1749733127" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+      <link rel="stylesheet" href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/utils.css?v=1749733127">
+    </noscript>
+
+    <script type='module' src='https://unpkg.com/ionicons@7.4.0/dist/ionicons/ionicons.esm.js'></script>
+
+    <script>
+      window.Dotshop = {
+        "csrfToken": "p4BU04tJFd1oZA50gVp0FXgoWhZSmeaNpwzemSBK",
+        "env": "production",
+        "currency": "MAD",
+        "store": {
+          "name": "Atlase Parfume",
+          "country_code": null,
+          "domain": "atlaseparfume.shop",
+          "multicurrency_settings": {
+            "isMulticurrencyActive": false,
+            "usePrecision": false
+          }
+        },
+        "customer_locale": "fr-MA"
+      };
+    </script>
+    <script async>
+      (async () => {
+        const now = new Date();
+        now.setTime(now.getTime() + 1 * 3600 * 1000);
+        const urls = [new URL('https://youcan.shop'), new URL(window.location)];
+        let visitorId = 'unidentified';
+        try {
+          const fpLib = await import('https://openfpcdn.io/fingerprintjs/v4');
+          const fp = await fpLib.load();
+          const res = await fp.get();
+          visitorId = res.visitorId || 'unidentified';
+        } catch (error) {}
+        urls.forEach(u => {
+          document.cookie = _ycfp=${visitorId}; expires=${now.toUTCString()}; path=/; domain=${u.hostname};;
+        });
+      })();
+    </script>
+
+    <script src='https://unpkg.com/@youcan/js@latest/dist/index.umd.js' defer></script>
+    <script src="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/helper.js?v=1749733126" type="text/javascript"></script>
+
+    <script data-youcan>
+      const defaultAvatar = "https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/avatar.png?v=1749733126";
+      const ratings = "Évaluations";
+    </script>
+  </head>
+  <body>
+    <div class='global-overlay'></div>
+    <div class="yc-alert"></div>
+    <section id="youcan-section--notice-bar" class="youcan-section">
+      <link rel="preload" href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/notice-bar.css?v=1749733127" as="style" onload="this.onload=null;this.rel='stylesheet'">
+      <noscript>
+        <link rel="stylesheet" href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/notice-bar.css?v=1749733127">
+      </noscript>
+
+      <style data-youcan>
+        :root {
+          --yc-notice-height: 45px;
+          --yc-notice-font-size: 14px;
+          --yc-notice-background-color: #000000FF;
+          --yc-notice-text-color: #FFFFFFFF;
+        }
+      </style>
+      <div class='yc-notice'>
+        <div class='content container'>
+          <div class="notice-content">
+            <p><strong></strong></p><p><br></p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="youcan-section--main-navbar" class="youcan-section">
+      <link rel="preload" href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/navbar.css?v=1749733127" as="style" onload="this.onload=null;this.rel='stylesheet'">
+      <noscript>
+        <link rel="stylesheet" href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/navbar.css?v=1749733127">
+      </noscript>
+
+      <style data-youcan>
+        :root {
+          --yc-nav-height: 20px;
+          --yc-nav-background: #F8F8F8FF;
+          --yc-nav-links-color: #000000FF;
+          --yc-nav-links-font-weight: 300;
+          --yc-nav-links-hover-transparency: 0.6;
+          --yc-nav-font-family: Raleway, sans-serif;
+        }
+        .toggle-navbar { display: none; }
+        .menu .menu-toggler {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          width: 40px;
+          height: 40px;
+          background-color: var(--background-color);
+          border-radius: var(--border-radius);
+          transform: scale(calc(var(--size) / 100));
+        }
+        .menu .menu-toggler ion-icon { color: var(--color) !important; }
+      </style>
+
+      <header class='yc-header nav-fixed'>
+        <link href='https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap' rel='stylesheet'>
+        <nav class='yc-navbar container'>
+          <div class='menu' style='--background-color: #00000000; --border-radius: 0%; --color: #FFFFFFFF; --size: 100;'>
+            <button class='menu-toggler text-3xl' onclick="openDrawer('.navbar-drawer')" aria-label='open menu'>
+              <ion-icon name='menu-outline'></ion-icon>
+            </button>
+            <ul class='menu-list'>
+              <li class='menu-item active'><a href='/'>Accueil</a></li>
+              <li class='menu-item'><a href='/collections'>Collections</a></li>
+              <li class='menu-item'><a href='/pages/contact-us'>Contactez nous</a></li>
+            </ul>
+          </div>
+          <div class='logo'>
+            <a href='/' aria-label='home'>
+              <img src='https://instagram.fcmn3-2.fna.fbcdn.net/v/t1.15752-9/518033661_1008785131155632_7044901476112627503_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Vgf61vqYqEcQ7kNvwH6JLkX&_nc_oc=Adn0c73niCIDHmo-ItMXTdVZUXR96V6sErVzhIhXT87TYZgWLaUA9Jet2e6JWidPxhY&_nc_zt=23&_nc_ht=instagram.fcmn3-2.fna&oh=03_Q7cD2wHtsgrPlY5CBqwzhuI9ah9h1BfT-JMrFP-yze13gCTFNQ&oe=68A08CDD' alt='Atlase Parfume' width="110" height="70">
+            </a>
+          </div>
+          <div class='corner'>
+            <button class='cart relative' id='navbar-cart-icon' onclick='preventCartDrawerOpening("index")'>
+              <span id='cart-items-badge'>0</span>
+              <svg width="25" height="27" viewBox="0 0 25 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.69231 1.3855L1 6.30858V23.5393C1 24.1922 1.25934 24.8183 1.72097 25.2799C2.1826 25.7415 2.8087 26.0009 3.46154 26.0009H20.6923C21.3451 26.0009 21.9713 25.7415 22.4329 25.2799C22.8945 24.8183 23.1538 24.1922 23.1538 23.5393V6.30858L19.4615 1.3855H4.69231Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M1 6.30859H23.1538" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M17 11.2316C17 12.5373 16.4813 13.7895 15.558 14.7128C14.6348 15.636 13.3826 16.1547 12.0769 16.1547C10.7712 16.1547 9.519 15.636 8.59574 14.7128C7.67249 13.7895 7.15381 12.5373 7.15381 11.2316" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </button>
+            <div id='searchInputHolder'>
+              <div class='container flex justify-center'>
+                <form action='/search' method='GET' class='input w-full flex gap-1 items-center'>
+                  <input placeholder='Entrez un mot-clé à rechercher...' type='text' name='q' value='' class='w-full'>
+                  <button type='submit' class='search-btn' aria-label='search'>
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M14.5 25C20.299 25 25 20.299 25 14.5C25 8.701 20.299 4 14.5 4C8.70101 4 4 8.701 4 14.5C4 20.299 8.70101 25 14.5 25Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                      <path d="M21.9258 21.9258L28.0008 28.0008" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </button>
+                </form>
+              </div>
+            </div>
+            <button class='search' onclick='openSearch()' aria-label="search">
+              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M14.5 25C20.299 25 25 20.299 25 14.5C25 8.701 20.299 4 14.5 4C8.70101 4 4 8.701 4 14.5C4 20.299 8.70101 25 14.5 25Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M21.9258 21.9258L28.0008 28.0008" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </button>
+          </div>
+        </nav>
+      </header>
+      <section class='navigation-drawer navbar-drawer block md:hidden'>
+        <div class='close-drawer-btn'>
+          <ion-icon name="close-outline" class='close-svg'></ion-icon>
+        </div>
+        <div class='logo flex items-center justify-center'>
+          <a href='/' aria-label='home'>
+            <img src='https://instagram.fcmn3-2.fna.fbcdn.net/v/t1.15752-9/518033661_1008785131155632_7044901476112627503_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Vgf61vqYqEcQ7kNvwH6JLkX&_nc_oc=Adn0c73niCIDHmo-ItMXTdVZUXR96V6sErVzhIhXT87TYZgWLaUA9Jet2e6JWidPxhY&_nc_zt=23&_nc_ht=instagram.fcmn3-2.fna&oh=03_Q7cD2wHtsgrPlY5CBqwzhuI9ah9h1BfT-JMrFP-yze13gCTFNQ&oe=68A08CDD' alt='Atlase Parfume' width="110" height="70">
+          </a>
+        </div>
+        <form action='/search' method='GET' class='mobile-search w-full flex gap-1 items-center'>
+          <input placeholder='Entrez un mot-clé à rechercher...' type='text' name='q' value='' class='w-full'>
+          <button type='submit' aria-label='search'>
+            <ion-icon name="search-outline" class="search-icon"></ion-icon>
+          </button>
+        </form>
+        <div class='flex flex-col items-wrapper'>
+          <a class='items flex items-center justify-between' href='/'>
+            <div>Accueil</div>
+            <ion-icon name='chevron-forward-outline'></ion-icon>
+          </a>
+          <a class='items flex items-center justify-between' href='/collections'>
+            <div>Collections</div>
+            <ion-icon name='chevron-forward-outline'></ion-icon>
+          </a>
+          <a class='items flex items-center justify-between' href='/pages/contact-us'>
+            <div>Contactez nous</div>
+            <ion-icon name='chevron-forward-outline'></ion-icon>
+          </a>
+        </div>
+      </section>
+    </section>
+
+    <main class="main-content">
+      <section id="youcan-section--section_qum9qooyrwe3uz" class="youcan-section">
+        <style data-youcan>
+          .section-slider-1785 #yc_slider_1785 .splide__arrow { --slider-height: 50vh; }
+          .section-slider-1785 #yc_slider_1785 .splide__arrow svg { height: 30px; width: 30px; }
+          .section-slider-1785 #yc_slider_1785 .splide__arrow svg path { fill: #FFFFFFFF; }
+          .section-slider-1785 #yc_slider_1785 .content { background-color: #00000000; }
+          .section-slider-1785 .yc-slider__desktop .caption > * { color: #FFFFFFFF; }
+          .section-slider-1785 .yc-slider__mobile .caption > * { color: #FFFFFFFF; }
+        </style>
+        <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/splide.min.css?v=1749733127" rel="stylesheet" type="text/css" media="all" />
+        <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/desktop-slider.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+        <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/mobile-slider.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+        <script src="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/splide.min.js?v=1749733127" type="text/javascript"></script>
+
+        <section class="section-slider-1785">
+          <style>
+            .slide-box {
+              -webkit-justify-content: flex-end;
+              align-items: flex-end;
+              -webkit-align-items: flex-end;
+            }
+            .slide-content-box { padding: 80px 20px; }
+            .slide-content-box-button {
+              margin-top: calc(var(--slider-height) / 5);
+              width: max-content;
+              padding: 12px 42px;
+              border-color: transparent !important;
+              margin-top: 1rem;
+            }
+            #yc_slider_1785 .btn-1 {
+              font-weight: 500;
+              background-color: #16191BFF !important;
+              color: #FFFFFFFF !important;
+            }
+            #yc_slider_1785 .hero-image-1 {
+              background: center center / cover no-repeat url('https://shop-themes-assets.ycdn.store/store-images/c568f916-765f-4370-b4e9-b1fa7fd89283/BANNERwebyoucantwins copie-2w7uWzYk1XIcDvUvzdnFMgbxSDO.jpg');
+            }
+            @media screen and (max-width: 768px) {
+              #yc_slider_1785 .hero-image-1 {
+                background: center center / cover no-repeat url('https://shop-themes-assets.ycdn.store/store-images/c568f916-765f-4370-b4e9-b1fa7fd89283/BANNERwebyoucantwins copie-2w7uWzYk1XIcDvUvzdnFMgbxSDO.jpg');
+              }
+            }
+          </style>
+
+          <div class='splide yc-slider__desktop' id='yc_slider_1785' style="--desktop-height: '50vh'; --mobile-height: '50vh';">
+            <div class='splide__track'>
+              <ul class='splide__list'>
+                <li class='splide__slide hero-image-1' style="width: 100%;" data-youcan-editor-block='{"id":"block_5k2a8dqxzah0p4u","type":"image_picker"}'></li>
+              </ul>
+            </div>
+          </div>
+
+          <style data-youcan>
+            #yc_slider_1785 .splide__arrows { display: none; }
+          </style>
+
+          <div class='splide yc-slider__mobile' id='yc_slider_1785' style="--desktop-height: '50vh'; --mobile-height: '50vh';">
+            <div class='splide__track'>
+              <ul class='splide__list'>
+                <li class='splide__slide hero-image-1' style="width: 100%;" data-youcan-editor-block='{"id":"block_5k2a8dqxzah0p4u","type":"image_picker"}'></li>
+              </ul>
+            </div>
+          </div>
+
+          <style data-youcan>
+            #yc_slider_1785 .splide__arrows { display: none; }
+          </style>
+        </section>
+
+        <script>
+          (function() {
+            const isMobile = window.matchMedia("(max-width: 760px)");
+            const slider = document.querySelector(#yc_slider_1785);
+            const desktopSlider = new Splide(#yc_slider_1785.yc-slider__desktop, {
+              arrowPath: 'M0.821351 2.8036C0.699407 2.68165 0.602677 2.53688 0.536681 2.37755C0.470685 2.21822 0.436716 2.04746 0.436716 1.875C0.436716 1.70254 0.470685 1.53178 0.536681 1.37245C0.602677 1.21312 0.699407 1.06835 0.821352 0.946406C0.943297 0.824462 1.08807 0.72773 1.2474 0.661734C1.40672 0.595738 1.57749 0.56177 1.74995 0.56177C1.9224 0.56177 2.09317 0.595738 2.2525 0.661734C2.41183 0.727731 2.5566 0.824462 2.67854 0.946406L15.8035 14.0714C15.9256 14.1933 16.0224 14.3381 16.0884 14.4974C16.1545 14.6567 16.1885 14.8275 16.1885 15C16.1885 15.1725 16.1545 15.3433 16.0884 15.5026C16.0224 15.6619 15.9256 15.8067 15.8035 15.9286L2.67854 29.0536C2.43226 29.2999 2.09823 29.4382 1.74994 29.4382C1.40165 29.4382 1.06763 29.2999 0.821349 29.0536C0.575071 28.8073 0.436713 28.4733 0.436713 28.125C0.436713 27.7767 0.575072 27.4427 0.821349 27.1964L13.0194 15L0.821351 2.8036Z',
+              type: 'slide',
+              arrows: '1' ? true : false,
+              autoplay: '1' ? true : false,
+              cover: true,
+              pagination: '1' ? true : false,
+              pauseOnHover: '1' ? true : false,
+              pauseOnFocus: '1' ? true : false,
+              height: 50vh,
+              interval: '3000',
+              focus: 'center',
+              rewind: true,
+              drag: 'free',
+              snap: true,
+              loop: true,
+            });
+            const mobileSlider = new Splide(#yc_slider_1785.yc-slider__mobile, {
+              type: 'loop',
+              autoplay: '1' ? true : false,
+              arrows: false,
+              cover: true,
+              pagination: '1' ? true : false,
+              height: 50vh,
+              interval: '4000',
+              focus: 'center',
+              rewind: true,
+              drag: 'free',
+              snap: true,
+              loop: true,
+            });
+            mountSlider(isMobile, mobileSlider, desktopSlider);
+          })();
+        </script>
+      </section>
+      <section id="youcan-section--section_geaol00xhiu8f1b" class="youcan-section">
+        <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/featured-collections.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+
+        <style data-youcan>
+          .section-featured-collections-1080 .yc-featured-container { justify-content: center; }
+          .section-featured-collections-1080 { margin-top: 5px; margin-bottom: 35px; }
+        </style>
+
+        <section class='section-featured-collections-1080 yc-featured-collections container'>
+          <div class="yc-featured-container">
+            <h1 class='yc-section-title'>Nos Packs</h1>
+          </div>
+          <div class='collections-list'>
+            <a href='/collections/parfum-homme-2' class='collection-block' data-youcan-editor-block='{"id":"block_ybmgakuwccrp69v","type":"category"}'>
+              <div class='collection-thumbnail'>
+                <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/categories/PYBXEAzYq2LSbdfGSZ9lvuD87fm6g1pmOTN9ghti.jpg' alt='PARFUM HOMME'>
+              </div>
+              <div class='collection-details'>
+                <span class='collection-name'>PARFUM HOMME</span>
+              </div>
+            </a>
+            <a href='/collections/parfum-femme' class='collection-block' data-youcan-editor-block='{"id":"block_boxvvl94azx4t8","type":"category"}'>
+              <div class='collection-thumbnail'>
+                <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/categories/TsW6YAm10kpHv9f05aCD2FjgIUzPmWYUMzBZ4RFx.jpg' alt='PARFUM FEMME'>
+              </div>
+              <div class='collection-details'>
+                <span class='collection-name'>PARFUM FEMME</span>
+              </div>
+            </a>
+            <a href='/collections/parfums-complet' class='collection-block' data-youcan-editor-block='{"id":"block_u0ue7wqmj86xv9o","type":"category"}'>
+              <div class='collection-thumbnail'>
+                <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/categories/wAuHK0Z5ZpXutXOOIWRNnmxIDSocp5zrcIPW1xFG.jpg' alt='parfums complet'>
+              </div>
+              <div class='collection-details'>
+                <span class='collection-name'>parfums complet</span>
+              </div>
+            </a>
+            <a href='/collections/parfum-de-niche' class='collection-block' data-youcan-editor-block='{"id":"block_53l8zurkkrchcas","type":"category"}'>
+              <div class='collection-thumbnail'>
+                <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/categories/tFrYIY93f7Cy9XQm0YtYexlyg5e7BZEw4HaXoo0K.jpg' alt='PARFUM DE NICHE'>
+              </div>
+              <div class='collection-details'>
+                <span class='collection-name'>PARFUM DE NICHE</span>
+              </div>
+            </a>
+            <a href='/collections/pack' class='collection-block' data-youcan-editor-block='{"id":"block_kwl72wcbtwpb3i","type":"category"}'>
+              <div class='collection-thumbnail'>
+                <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/categories/k5b3fI8bG9l5R90j4DxYhCnT0NV60KJrLWo26Lpw.jpg' alt='pack'>
+              </div>
+              <div class='collection-details'>
+                <span class='collection-name'>pack</span>
+              </div>
+            </a>
+            <a href='/collections/pack-7' class='collection-block' data-youcan-editor-block='{"id":"block_vxi7wbfqskwkule","type":"category"}'>
+              <div class='collection-thumbnail'>
+                <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/categories/nATF34ZcXEKa6SednKPjmA7C6sj8rvIjCd7cdx5Z.jpg' alt='pack'>
+              </div>
+              <div class='collection-details'>
+                <span class='collection-name'>pack</span>
+              </div>
+            </a>
+            <a href='/collections/pack-6' class='collection-block' data-youcan-editor-block='{"id":"block_w62wl5ynm5t87gm","type":"category"}'>
+              <div class='collection-thumbnail'>
+                <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/categories/CS5YfLeMdiIJvNaBvep5v7EakQ1UoTV9UknEWmvE.jpg' alt='PACK'>
+              </div>
+              <div class='collection-details'>
+                <span class='collection-name'>PACK</span>
+              </div>
+            </a>
+            <a href='/collections/pack-8' class='collection-block' data-youcan-editor-block='{"id":"block_18wg8c9mvfn4of5","type":"category"}'>
+              <div class='collection-thumbnail'>
+                <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/categories/PIqyI7N5iH1S2aI3ssrNDjzlbzIpFcq1WD92NJFg.jpg' alt='pack'>
+              </div>
+              <div class='collection-details'>
+                <span class='collection-name'>pack</span>
+              </div>
+            </a>
+            <a href='/collections/9pm-rebel-10-ml-club-de-nuit-10ml-grt' class='collection-block' data-youcan-editor-block='{"id":"block_6kmparcbc2uetog","type":"category"}'>
+              <div class='collection-thumbnail'>
+                <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/categories/fivWpBg1VVdiT1u5Hktjd7NtPF5Io4JwFY9QXw8T.jpg' alt='PACK'>
+              </div>
+              <div class='collection-details'>
+                <span class='collection-name'>PACK</span>
+              </div>
+            </a>
+            <a href='/collections/pack-9' class='collection-block' data-youcan-editor-block='{"id":"block_5gnb6qru5y01ubd","type":"category"}'>
+              <div class='collection-thumbnail'>
+                <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/categories/aNF3oSAhX60ULQXSQgqIsdxiGjzdWYiJDsosKLAs.jpg' alt='pack'>
+              </div>
+              <div class='collection-details'>
+                <span class='collection-name'>pack</span>
+              </div>
+            </a>
+            <a href='/collections/pack-4' class='collection-block' data-youcan-editor-block='{"id":"block_3hocmvoldpkgmrq","type":"category"}'>
+              <div class='collection-thumbnail'>
+                <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/categories/1dgfmQ2s3iIrfgO4J6bLDuemEdGeV2pwoCKZOX8S.jpg' alt='pack'>
+              </div>
+              <div class='collection-details'>
+                <span class='collection-name'>pack</span>
+              </div>
+            </a>
+            <a href='/collections/pack-2' class='collection-block' data-youcan-editor-block='{"id":"block_puc41dmcomtp1sf","type":"category"}'>
+              <div class='collection-thumbnail'>
+                <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/categories/WxlpA61l0NSAbADWmSF0i4P4iKN4a9pTbqND6yq0.jpg' alt='PACK'>
+              </div>
+              <div class='collection-details'>
+                <span class='collection-name'>PACK</span>
+              </div>
+            </a>
+            <a href='/collections/pack-5' class='collection-block' data-youcan-editor-block='{"id":"block_8ezdd21rev27zmu","type":"category"}'>
+              <div class='collection-thumbnail'>
+                <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/categories/E2ESYYYgTzWIJVIG14MmY2mXWWWFkSNB28G9Agyr.jpg' alt='pack'>
+              </div>
+              <div class='collection-details'>
+                <span class='collection-name'>pack</span>
+              </div>
+            </a>
+            <a href='/collections/absolutely-10-ml-dior-homme-intense-10-ml-gratuit' class='collection-block' data-youcan-editor-block='{"id":"block_ia8qs3lszfjs57n","type":"category"}'>
+              <div class='collection-thumbnail'>
+                <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/categories/yjzkaNGTN8rkiYLPSRcAHvGPVLfm1TexTNctN7vi.jpg' alt='PACK'>
+              </div>
+              <div class='collection-details'>
+                <span class='collection-name'>PACK</span>
+              </div>
+            </a>
+            <a href='/collections/pack-abso-elexir-grt-1' class='collection-block' data-youcan-editor-block='{"id":"block_shgbl04gbh56p0g","type":"category"}'>
+              <div class='collection-thumbnail'>
+                <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/categories/5vvdoOdvPuIgAiZHa0IFrnRodlvpOBX0dTjC3C1Q.jpg' alt='PACK'>
+              </div>
+              <div class='collection-details'>
+                <span class='collection-name'>PACK</span>
+              </div>
+            </a>
+            <a href='/collections/decontage-5ml' class='collection-block' data-youcan-editor-block='{"id":"block_9n9yb0iazp9zbsa","type":"category"}'>
+              <div class='collection-thumbnail'>
+                <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/categories/QBJctwD9IbrBLLO8T4ZuVUroNgwUZV1sgNPra6pj.png' alt='DECONTAGE PARFUM 5ml'>
+              </div>
+              <div class='collection-details'>
+                <span class='collection-name'>DECONTAGE PARFUM 5ml</span>
+              </div>
+            </a>
+          </div>
+        </section>
+      </section>
+      <section id="youcan-section--section_609gq1tx2x0aaa" class="youcan-section">
+        <style data-youcan>
+          .section-featured-products-628 { padding-top: 80px; padding-bottom: 80px; }
+          .section-featured-products-628 .yc-section-title { text-align: center; }
+          .section-featured-products-628 * { color: #1C4647FF; }
+          .section-featured-products-628 .product-container-628 {
+            display: grid;
+            grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+          }
+          @media screen and (max-width: 1024px) {
+            .section-featured-products-628 .product-container-628 {
+              grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+            }
+          }
+          @media screen and (max-width: 768px) {
+            .section-featured-products-628 .product-container-628 {
+              grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+            }
+          }
+        </style>
+
+        <section class='section-featured-products-628 yc-featured-products'>
+          <div class="container">
+            <h2 class='yc-section-title'>BEST SELLERS</h2>
+            <div class='product-list product-container-628'>
+              <div data-youcan-editor-block='{"id":"block_gdqldsc1nkk9ey","type":"product"}' class="product-item-628">
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/featured-products.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/countdown.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <a href='/products/9-pm-rebel-10-ml' class='product-block'>
+                  <div class='product-thumbnail'>
+                    <div class="tag top_left"></div>
+                    <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/products/iOrSlcqbsYa0LRWA1omoAgF1nn0aajX0GgYcMZfi.png' alt="9 PM Rebeel 10 ML">
+                  </div>
+                  <div class='product-details'>
+                    <span class='product-title'>9 PM Rebeel 10 ML</span>
+                    <div class='prices'>
+                      <span class='product-price'>70 MAD</span>
+                      <span class='compare-at-price'>90 MAD</span>
+                    </div>
+                    <div class='product-btn'>
+                      <button class="yc-btn-secondary" onclick="directAddToCart(event, 'e4b8fa15-0cba-48d0-a288-4ecac0051f37')">Ajouter au panier</button>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div data-youcan-editor-block='{"id":"block_4jngfsgug2j4y3j","type":"product"}' class="product-item-628">
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/featured-products.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/countdown.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <a href='/products/beau-paradise-10-ml-1' class='product-block'>
+                  <div class='product-thumbnail'>
+                    <div class="tag top_left"></div>
+                    <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/products/vVqMQYT8pggWYIqvoD0bh2yD4IYEVmVhYmlUQsAr.jpg' alt="beau paradise 10 ml">
+                  </div>
+                  <div class='product-details'>
+                    <span class='product-title'>beau paradise 10 ml</span>
+                    <div class='prices'>
+                      <span class='product-price'>135 MAD</span>
+                      <span class='compare-at-price'>180 MAD</span>
+                    </div>
+                    <div class='product-btn'>
+                      <button class="yc-btn-secondary" onclick="directAddToCart(event, 'dd236c92-86a4-4425-9660-7e0a5732cb9c')">Ajouter au panier</button>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div data-youcan-editor-block='{"id":"block_ss0lv9ldidxm3l","type":"product"}' class="product-item-628">
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/featured-products.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/countdown.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <a href='/products/intensely-10-ml-1' class='product-block'>
+                  <div class='product-thumbnail'>
+                    <div class="tag top_left"></div>
+                    <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/products/yP8qtq4gNJ56xs5mWGO8qgQEyNOD5k1QsYhJy0wx.webp' alt="INTENSELY 10 ML">
+                  </div>
+                  <div class='product-details'>
+                    <span class='product-title'>INTENSELY 10 ML</span>
+                    <div class='prices'>
+                      <span class='product-price'>100 MAD</span>
+                      <span class='compare-at-price'>135 MAD</span>
+                    </div>
+                    <div class='product-btn'>
+                      <button class="yc-btn-secondary" onclick="directAddToCart(event, '6011472b-2040-4544-a92a-349278ca4c20')">Ajouter au panier</button>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div data-youcan-editor-block='{"id":"block_xliww9w2u70p2eo","type":"product"}' class="product-item-628">
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/featured-products.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/countdown.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <a href='/products/boss-bottled-absolu-10-ml' class='product-block'>
+                  <div class='product-thumbnail'>
+                    <div class="tag top_left"></div>
+                    <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/products/fSM1K5BHz2OjTV7FkBw5DtXZ9myrx0pmmYoTJfV3_md.jpg' alt="BOSS BOTTLED ABSOLU 10 ML">
+                  </div>
+                  <div class='product-details'>
+                    <span class='product-title'>BOSS BOTTLED ABSOLU 10 ML</span>
+                    <div class='prices'>
+                      <span class='product-price'>120 MAD</span>
+                    </div>
+                    <div class='product-btn'>
+                      <button class="yc-btn-secondary" onclick="directAddToCart(event, '00b986f9-7e01-4d8e-bfd1-ee242d8c16e0')">Ajouter au panier</button>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div data-youcan-editor-block='{"id":"block_qw4eq3517xbvrb","type":"product"}' class="product-item-628">
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/featured-products.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/countdown.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <a href='/products/stronger-with-you-tobacco-10-ml' class='product-block'>
+                  <div class='product-thumbnail'>
+                    <div class="tag top_left"></div>
+                    <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/products/VC09LylNSdzDri43HPEADifnZ9iXNgUdGXNt1hYk_md.jpg' alt="STRONGER WITH YOU TOBACCO 10 ML">
+                  </div>
+                  <div class='product-details'>
+                    <span class='product-title'>STRONGER WITH YOU TOBACCO 10 ML</span>
+                    <div class='prices'>
+                      <span class='product-price'>175 MAD</span>
+                      <span class='compare-at-price'>250 MAD</span>
+                    </div>
+                    <div class='product-btn'>
+                      <button class="yc-btn-secondary" onclick="directAddToCart(event, '7681d9c3-bd14-4b04-bb68-ab6c43de84ce')">Ajouter au panier</button>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div data-youcan-editor-block='{"id":"block_rrevrsgty4qim8","type":"product"}' class="product-item-628">
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/featured-products.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/countdown.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <a href='/products/beau-paradise-10-ml' class='product-block'>
+                  <div class='product-thumbnail'>
+                    <div class="tag top_left"></div>
+                    <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/products/CFjUJEVKlk9pIkZuVnUpzomn3gmA4VdVNlHz0tSQ_md.jpg' alt="BEAU PARADISE 10 ML">
+                  </div>
+                  <div class='product-details'>
+                    <span class='product-title'>BEAU PARADISE 10 ML</span>
+                    <div class='prices'>
+                      <span class='product-price'>140 MAD</span>
+                    </div>
+                    <div class='product-btn'>
+                      <button class="yc-btn-secondary" onclick="directAddToCart(event, 'b711f0ce-7432-42be-9b33-3d3f5e47f07a')">Ajouter au panier</button>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div data-youcan-editor-block='{"id":"block_swav5b30rgd9twi","type":"product"}' class="product-item-628">
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/featured-products.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/countdown.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <a href='/products/beau-parfum-10-ml' class='product-block'>
+                  <div class='product-thumbnail'>
+                    <div class="tag top_left"></div>
+                    <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/products/IYRKaXuGnqNaJHCdEuS8wDY6KaT9T1tpfe5Njyo3.jpg' alt="BEAU PARFUM 10 ML">
+                  </div>
+                  <div class='product-details'>
+                    <span class='product-title'>BEAU PARFUM 10 ML</span>
+                    <div class='prices'>
+                      <span class='product-price'>100 MAD</span>
+                    </div>
+                    <div class='product-btn'>
+                      <button class="yc-btn-secondary" onclick="directAddToCart(event, '27290009-23c4-4463-89af-62a67d8dd6eb')">Ajouter au panier</button>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div data-youcan-editor-block='{"id":"block_uhbyhd7rxugjgft","type":"product"}' class="product-item-628">
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/featured-products.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/countdown.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <a href='/products/prada-paradox-10-ml' class='product-block'>
+                  <div class='product-thumbnail'>
+                    <div class="tag top_left"></div>
+                    <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/products/FNxhHdaGeSh0ZtBadhYB28cJjtZb1kTO7iYmDKam.jpg' alt="PRADA PARADOX 10 ML">
+                  </div>
+                  <div class='product-details'>
+                    <span class='product-title'>PRADA PARADOX 10 ML</span>
+                    <div class='prices'>
+                      <span class='product-price'>180 MAD</span>
+                    </div>
+                    <div class='product-btn'>
+                      <button class="yc-btn-secondary" onclick="directAddToCart(event, '1a5f08da-8608-4652-acc8-994f63bf4628')">Ajouter au panier</button>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div data-youcan-editor-block='{"id":"block_qagrp3s5pxu6n4g","type":"product"}' class="product-item-628">
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/featured-products.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/countdown.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <a href='/products/dior-homme-intense-eau-de-parfum-intense-10-ml' class='product-block'>
+                  <div class='product-thumbnail'>
+                    <div class="tag top_left"></div>
+                    <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/products/qcyrIF72rgBW85NJCa2U2UMki9ApPDfOaLwruogD.webp' alt="DIOR HOMME INTENSE - Eau de parfum intense 10 ML">
+                  </div>
+                  <div class='product-details'>
+                    <span class='product-title'>DIOR HOMME INTENSE - Eau de parfum intense 10 ML</span>
+                    <div class='prices'>
+                      <span class='product-price'>130 MAD</span>
+                      <span class='compare-at-price'>145 MAD</span>
+                    </div>
+                    <div class='product-btn'>
+                      <button class="yc-btn-secondary" onclick="directAddToCart(event, '2608cb3d-70ae-4667-a760-3f63c5c027d7')">Ajouter au panier</button>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div data-youcan-editor-block='{"id":"block_0qfrh6opow8tgyk","type":"product"}' class="product-item-628">
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/featured-products.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/countdown.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <a href='/products/absolutely-10-ml' class='product-block'>
+                  <div class='product-thumbnail'>
+                    <div class="tag top_left"></div>
+                    <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/products/67SXjJ6pKUfr1iAzEodvHnPlisuo7vOzdw7UT11Y_md.jpg' alt="ABSOLUTELY 10 ML">
+                  </div>
+                  <div class='product-details'>
+                    <span class='product-title'>ABSOLUTELY 10 ML</span>
+                    <div class='prices'>
+                      <span class='product-price'>145 MAD</span>
+                      <span class='compare-at-price'>155 MAD</span>
+                    </div>
+                    <div class='product-btn'>
+                      <button class="yc-btn-secondary" onclick="directAddToCart(event, 'b1910162-07a4-45f7-bab1-1a7f9b7243ed')">Ajouter au panier</button>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div data-youcan-editor-block='{"id":"block_16kk8rtv3anj30q","type":"product"}' class="product-item-628">
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/featured-products.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/countdown.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <a href='/products/libre-intense' class='product-block'>
+                  <div class='product-thumbnail'>
+                    <div class="tag top_left"></div>
+                    <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/products/ZRvyrtPVAMPJIyo5mdAPfUegOJTRP3NSCLCiLwqL_md.jpeg' alt="LIBRE INTENSE  10 ML">
+                  </div>
+                  <div class='product-details'>
+                    <span class='product-title'>LIBRE INTENSE  10 ML</span>
+                    <div class='prices'>
+                      <span class='product-price'>160 MAD</span>
+                    </div>
+                    <div class='product-btn'>
+                      <button class="yc-btn-secondary" onclick="directAddToCart(event, 'e2bb87a3-de7a-4715-aa3f-7f1b3a4036a1')">Ajouter au panier</button>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div data-youcan-editor-block='{"id":"block_1hemzefl9g2n8fi","type":"product"}' class="product-item-628">
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/featured-products.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/countdown.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <a href='/products/spice-bomb-extrem-10-ml' class='product-block'>
+                  <div class='product-thumbnail'>
+                    <div class="tag top_left"></div>
+                    <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/products/Mw6xEgQOebyOms1Z6rrDu8WHiqSZwERmNrY4z83b_md.jpg' alt="SPICE BOMB EXTREM 10 ML">
+                  </div>
+                  <div class='product-details'>
+                    <span class='product-title'>SPICE BOMB EXTREM 10 ML</span>
+                    <div class='prices'>
+                      <span class='product-price'>200 MAD</span>
+                      <span class='compare-at-price'>260 MAD</span>
+                    </div>
+                    <div class='product-btn'>
+                      <button class="yc-btn-secondary" onclick="directAddToCart(event, '56000bb0-5342-4399-bc43-7154fa655c2b')">Ajouter au panier</button>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div data-youcan-editor-block='{"id":"block_1ybb5c9w5wi37ws","type":"product"}' class="product-item-628">
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/featured-products.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/countdown.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <a href='/products/kayali-vanille-28-10-ml' class='product-block'>
+                  <div class='product-thumbnail'>
+                    <div class="tag top_left"></div>
+                    <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/products/7zaWnf2myJcbiTsXyC97TPbTB66jGFTbzs70bBTM.webp' alt="kayali vanille 28 10 ML">
+                  </div>
+                  <div class='product-details'>
+                    <span class='product-title'>kayali vanille 28 10 ML</span>
+                    <div class='prices'>
+                      <span class='product-price'>210 MAD</span>
+                    </div>
+                    <div class='product-btn'>
+                      <button class="yc-btn-secondary" onclick="directAddToCart(event, '09303ce5-2528-4d72-b716-622450114663')">Ajouter au panier</button>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div data-youcan-editor-block='{"id":"block_c86vhenzlrw8k3p","type":"product"}' class="product-item-628">
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/featured-products.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/countdown.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <a href='/products/givenchy-linterdit-rouge-ultime-10-ml' class='product-block'>
+                  <div class='product-thumbnail'>
+                    <div class="tag top_left"></div>
+                    <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/products/NggpHuNLt1hJkKqvZ4ybRhcu4yZtmhaLm6CMVzz2_md.jpg' alt="Givenchy L'INTERDIT ROUGE  10 ML">
+                  </div>
+                  <div class='product-details'>
+                    <span class='product-title'>Givenchy L'INTERDIT ROUGE  10 ML</span>
+                    <div class='prices'>
+                      <span class='product-price'>100 MAD</span>
+                    </div>
+                    <div class='product-btn'>
+                      <button class="yc-btn-secondary" onclick="directAddToCart(event, 'ba9cffcb-9000-45d6-b947-8bc7349b9df1')">Ajouter au panier</button>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div data-youcan-editor-block='{"id":"block_go4o1u6w5crmb1o","type":"product"}' class="product-item-628">
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/featured-products.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/countdown.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <a href='/products/male-elexir-10ml' class='product-block'>
+                  <div class='product-thumbnail'>
+                    <div class="tag top_left"></div>
+                    <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/products/zaF12I8zDOhzLKMcLkwYwNoA3w3vnomASEmJ52cO_md.jpg' alt="MALE ELEXIR 10ML">
+                  </div>
+                  <div class='product-details'>
+                    <span class='product-title'>MALE ELEXIR 10ML</span>
+                    <div class='prices'>
+                      <span class='product-price'>150 MAD</span>
+                    </div>
+                    <div class='product-btn'>
+                      <button class="yc-btn-secondary" onclick="directAddToCart(event, '2b4fc815-13ee-403c-a0f7-6f3476fa1446')">Ajouter au panier</button>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div data-youcan-editor-block='{"id":"block_hx4zzxkor8ae448","type":"product"}' class="product-item-628">
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/featured-products.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <link href="https://shop-themes-assets.ycdn.store/themes/73316cd930787a667bee795d5224f67f/assets/countdown.css?v=1749733126" rel="stylesheet" type="text/css" media="all" />
+                <a href='/products/jean-paul-gaultier-le-male-le-parfum-10ml' class='product-block'>
+                  <div class='product-thumbnail'>
+                    <div class="tag top_left"></div>
+                    <img loading='lazy' src='https://cdn.youcan.shop/stores/90ec1e7a8f831cc8c5544682c53c4515/products/LpvzwL495tjGjnUrRDfW38yz0q7L9k2xy7RVtg0h_md.jpeg' alt="Jean Paul Gaultier Le Male Le Parfum 10
